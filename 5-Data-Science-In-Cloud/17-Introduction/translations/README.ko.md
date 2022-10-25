@@ -8,7 +8,7 @@
 이 강의에서는 클라우드의 기본 원칙을 배운 다음 클라우드 서비스를 사용하여 데이터 사이언스 프로젝트를 실행하는 것이 왜 흥미로운지 알게 되고, 클라우드에서 실행되는 데이터 사이언스 프로젝트들 중 몇가지 예시를 보게 될 것이다.
 
 
-## [강의전 퀴즈](https://red-water-0103e7a0f.azurestaticapps.net/quiz/32)
+## [강의전 퀴즈](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/32)
 
 
 ## 클라우드란?
@@ -68,16 +68,16 @@
 * 출력 싱크 생성 및 작업 출력 지정
 * Job 실행
 
-전체 프로세스를 보려면 [문서](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-twitter-sentiment-analysis-trends?WT.mc_id=academic-40229-cxa&ocid)를 확인하세요. =AID30411099).
+전체 프로세스를 보려면 [문서](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-twitter-sentiment-analysis-trends?WT.mc_id=academic-77958-bethanycheum&ocid)를 확인하세요. =AID30411099).
 ### 과학 논문 분석
 이 커리큘럼의 저자 중 한 명인 [Dmitry Soshnikov](http://soshnikov.com)가 만든 프로젝트의 또 다른 예를 들어보겠습니다.
 
 Dmitry는 COVID 논문을 분석하는 도구를 만들었습니다. 이 프로젝트를 검토하면 과학 논문에서 지식을 추출하고 통찰력을 얻으며 연구자가 효율적인 방식으로 방대한 논문 컬렉션을 탐색하는 데 도움이 되는 도구를 만드는 방법을 알 수 있습니다.
 
 이를 위해 사용된 다양한 단계를 살펴보겠습니다.
-* [Text Analytics for Health](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health?WT.mc_id=academic-40229-cxa&ocid=AID3041109)로 정보 추출 및 전처리
-* [Azure ML](https://azure.microsoft.com/services/machine-learning?WT.mc_id=academic-40229-cxa&ocid=AID3041109)을 사용하여 처리 병렬화
-* [Cosmos DB](https://azure.microsoft.com/services/cosmos-db?WT.mc_id=academic-40229-cxa&ocid=AID3041109)로 정보 저장 및 조회
+* [Text Analytics for Health](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109)로 정보 추출 및 전처리
+* [Azure ML](https://azure.microsoft.com/services/machine-learning?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109)을 사용하여 처리 병렬화
+* [Cosmos DB](https://azure.microsoft.com/services/cosmos-db?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109)로 정보 저장 및 조회
 * Power BI를 사용하여 데이터 탐색 및 시각화를 위한 대화형 대시보드 만들기
 
 전체 과정을 보려면 [Dmitry의 블로그](https://soshnikov.com/science/analyzing-medical-papers-with-azure-and-text-analytics-for-health/)를 방문하세요.
@@ -92,7 +92,7 @@ Dmitry는 COVID 논문을 분석하는 도구를 만들었습니다. 이 프로�
 
 ## 강의 후 퀴즈
 
-[강의 후 퀴즈](https://red-water-0103e7a0f.azurestaticapps.net/quiz/33)
+[강의 후 퀴즈](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/33)
 
 ## 과제
 

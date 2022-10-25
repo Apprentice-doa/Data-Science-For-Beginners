@@ -8,7 +8,7 @@
 In this lesson, you will learn the fundamental principles of the Cloud, then you will see why it can be interesting for you to use Cloud services to run your data science projects and we'll look at some examples of data science projects run in the Cloud. 
 
 
-## [Pre-Lecture Quiz](https://red-water-0103e7a0f.azurestaticapps.net/quiz/32)
+## [Pre-Lecture Quiz](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/32)
 
 
 ## What is the Cloud?
@@ -68,16 +68,16 @@ The steps necessary to create this project are as follows:
 * Create an output sink and specify the job output 
 * Start the job 
 
-To view the full process, check out the [documentation](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-twitter-sentiment-analysis-trends?WT.mc_id=academic-40229-cxa&ocid=AID30411099).
+To view the full process, check out the [documentation](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-twitter-sentiment-analysis-trends?WT.mc_id=academic-77958-bethanycheum&ocid=AID30411099).
 ### Scientific papers analysis
 Let’s take another example of a project created by [Dmitry Soshnikov](http://soshnikov.com), one of the authors of this curriculum. 
 
 Dmitry created a tool that analyses COVID papers. By reviewing this project, you will see how you can create a tool that extracts knowledge from scientific papers, gains insights and helps researchers navigate through large collections of papers in an efficient way.
 
 Let's see the different steps used for this: 
-* Extracting and pre-processing information with [Text Analytics for Health](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health?WT.mc_id=academic-40229-cxa&ocid=AID3041109)
-* Using [Azure ML](https://azure.microsoft.com/services/machine-learning?WT.mc_id=academic-40229-cxa&ocid=AID3041109) to parallelize the processing
-* Storing and querying information with [Cosmos DB](https://azure.microsoft.com/services/cosmos-db?WT.mc_id=academic-40229-cxa&ocid=AID3041109)
+* Extracting and pre-processing information with [Text Analytics for Health](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109)
+* Using [Azure ML](https://azure.microsoft.com/services/machine-learning?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109) to parallelize the processing
+* Storing and querying information with [Cosmos DB](https://azure.microsoft.com/services/cosmos-db?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109)
 * Create an interactive dashboard for data exploration and visualization using Power BI
 
 To see the full process, visit [Dmitry’s blog](https://soshnikov.com/science/analyzing-medical-papers-with-azure-and-text-analytics-for-health/). 
@@ -92,7 +92,7 @@ Sources:
 
 ## Post-Lecture Quiz
 
-[Post-lecture quiz](https://red-water-0103e7a0f.azurestaticapps.net/quiz/33)
+[Post-lecture quiz](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/33)
 
 ## Assignment
 

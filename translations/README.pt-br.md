@@ -20,12 +20,18 @@ Consultores da Azure Cloud na Microsoft estão felizes em oferecer um currículo
 |:---:|
 | Ciência de Dados para Iniciantes - _Sketchnote por [@nitya](https://twitter.com/nitya)_ |
 
+# Você é um aluno?
+
+Comece com os seguintes recursos:
+
+- [Página do Hub de Alunos](https://docs.microsoft.com/pt-br/learn/student-hub/?WT.mc_id=academic-77958-bethanycheum) Nessa página, você irá encontrar recursos de iniciantes, pacotes estudantis e até mesmo modos de conseguir certificados de graça. Essa é uma página que você vai querer favoritar e checar de tempos em tempos pois nós mudamos o conteúdo pelo menos mensalmente.
+- [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/pt-BR) Junte-se a uma comunidade global de embaixadores estudantis, esse pode ser o seu caminho à Microsoft.
 
 # Primeiros Passos
 
 > **Professores**, nós [incluímos algumas sugestões](for-teachers.md) em como usar esse currículo. Nós adoraríamos ouvir o seu feedback [no nosso fórum de discussão](https://github.com/microsoft/Data-Science-For-Beginners/discussions)!
 
-> **Estudantes**, para usar esse currículo por conta própria, dê fork nesse repositório, complete os exercícios por sua conta, começando com um quiz pré aula, então leia a aula completando o resto das atividades. Tente criar os projetos compreendendo as aulas ao invés de copiar o código da solução; no entanto o código está disponível na pasta /solutions em cada aula baseada em projeto. Outra ideia seria formar um grupo de estudo com seus amigos e ler o conteúdo juntos. Para mais estudos, nós recomendamos [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-40229-cxa).
+> **Estudantes**, para usar esse currículo por conta própria, dê fork nesse repositório, complete os exercícios por sua conta, começando com um quiz pré aula, então leia a aula completando o resto das atividades. Tente criar os projetos compreendendo as aulas ao invés de copiar o código da solução; no entanto o código está disponível na pasta /solutions em cada aula baseada em projeto. Outra ideia seria formar um grupo de estudo com seus amigos e ler o conteúdo juntos. Para mais estudos, nós recomendamos [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-77958-bethanycheum).
 
 <!--[![Promo video](screenshot.png)]( "Promod video")
 
@@ -52,7 +58,7 @@ Além do mais, um quiz com valor baixo antes da aula define a intenção do estu
 - Tarefa
 - Quiz pós-aula
 
-> **Nota sobre os quizzes**: Todos os quizzes estão [aqui](https://red-water-0103e7a0f.azurestaticapps.net/), para 40 quizzes de três questões cada. Os links deles estão dentro de cada aula mas o "quiz-app" pode ser executado localmente; siga as intruções na pasta `quiz-app`. Eles estão gradualmente localizados.
+> **Nota sobre os quizzes**: Todos os quizzes estão [aqui](https://purple-hill-04aebfb03.1.azurestaticapps.net/), para 40 quizzes de três questões cada. Os links deles estão dentro de cada aula mas o "quiz-app" pode ser executado localmente; siga as intruções na pasta `quiz-app`. Eles estão gradualmente localizados.
 
 ## Tarefas
 

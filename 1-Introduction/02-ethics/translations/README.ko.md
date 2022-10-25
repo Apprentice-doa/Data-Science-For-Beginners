@@ -1,6 +1,6 @@
 # 데이터 윤리 소개
 
-| ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../sketchnotes/02-Ethics.png) |
+| ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](../../../sketchnotes/02-Ethics.png) |
 | :-----------------------------------------------------------------------------------------------: |
 |              데이터 과학 윤리 - _Sketchnote by [@nitya](https://twitter.com/nitya)_               |
 
@@ -21,7 +21,7 @@
 
 
 
-## [강의 전 퀴즈](https://red-water-0103e7a0f.azurestaticapps.net/quiz/2) 🎯
+## [강의 전 퀴즈](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/2) 🎯
 
 ## 기본 정의
 
@@ -247,7 +247,7 @@ _준수_ ("법규"를 충족하기 위해 충분히 노력함)와 (골화, 정�
 후자는 산업에서 _조직 전체적으로_ 정서적 연결과 일관된 공유 가치를 구축하는 [윤리 문화를 정의하기 위한 협력적 접근 방식](https://towardsdatascience.com/why-ai-ethics-requires-a-culture-driven-approach-26f451afa29f)이 필요합니다. 이것은 조직에서 더 많은 [공식화된 데이터 윤리 문화](https://www.codeforamerica.org/news/formalizing-an-ethical-data-culture/)를 요구합니다. 이런 문화는 _누구나_ (프로세스 초기에 윤리 문제 제기를 위해) [Andon 강령을 사용하고](https://en.wikipedia.org/wiki/Andon_(manufacturing)) _윤리적 평가_ (예: 고용 시)를 AI 프로젝트의 핵심 기준 팀 구성으로 만듭니다.
 
 ---
-## [강의 후 퀴즈](https://red-water-0103e7a0f.azurestaticapps.net/quiz/3) 🎯
+## [강의 후 퀴즈](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/3) 🎯
 ## 복습 & 독학
 
 과정과 책은 핵심 윤리 개념과 과제를 이해하는 데 도움이 되며, Case Study와 도구는 실제 상황에서 윤리 사항들을 적용하는 데 도움이 됩니다. 다음은 시작을 할 때 도움이 되는 몇가지 자료들입니다.

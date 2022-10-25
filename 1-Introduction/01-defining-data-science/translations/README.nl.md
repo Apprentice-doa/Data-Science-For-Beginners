@@ -8,7 +8,7 @@
 
 [![Defining Data Science Video](../images/video-def-ds.png)](https://youtu.be/beZ7Mb_oz9I)
 
-## [Starttoets data science](https://red-water-0103e7a0f.azurestaticapps.net/quiz/0)
+## [Starttoets data science](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/0)
 
 ## Wat is Data?
 In ons dagelijks leven zijn we voortdurend omringd door data. De tekst die je nu leest is data.  De lijst met telefoonnummers van je vrienden op je smartphone is data, evenals de huidige tijd die op je horloge wordt weergegeven. Als mens werken we van nature met data, denk aan het geld dat we moeten tellen of door berichten te schrijven aan onze vrienden.
@@ -108,7 +108,7 @@ De eerste stap is het verzamelen van de gegevens.  Hoewel het in veel gevallen e
 Het opslaan van gegevens kan een uitdaging zijn, vooral als we het hebben over big data.  Wanneer u beslist hoe u gegevens wilt opslaan, is het logisch om te anticiperen op de manier waarop u de gegevens in de toekomst zou opvragen.  Er zijn verschillende manieren waarop gegevens kunnen worden opgeslagen:
 <ul>
 <li>Een relationele database slaat een verzameling tabellen op en gebruikt een speciale taal genaamd SQL om deze op te vragen.  Tabellen zijn meestal georganiseerd in verschillene groepen die schema's worden genoemd.  In veel gevallen moeten we de gegevens van de oorspronkelijke vorm converteren naar het schema.</li>
-<li><a href="https://en.wikipedia.org/wiki/NoSQL">A NoSQL</a> database, zoals <a href="https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=academic-31812-dmitryso">CosmosDB</a>, dwingt geen schema's af op gegevens en maakt het opslaan van complexere gegevens mogelijk, bijvoorbeeld hiërarchische JSON-documenten of grafieken. NoSQL-databases hebben echter niet de uitgebreide querymogelijkheden van SQL en kunnen geen referentiële integriteit afdwingen, d.w.z. regels over hoe de gegevens in tabellen zijn gestructureerd en de relaties tussen tabellen regelen.</li>
+<li><a href="https://en.wikipedia.org/wiki/NoSQL">A NoSQL</a> database, zoals <a href="https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=academic-77958-bethanycheum">CosmosDB</a>, dwingt geen schema's af op gegevens en maakt het opslaan van complexere gegevens mogelijk, bijvoorbeeld hiërarchische JSON-documenten of grafieken. NoSQL-databases hebben echter niet de uitgebreide querymogelijkheden van SQL en kunnen geen referentiële integriteit afdwingen, d.w.z. regels over hoe de gegevens in tabellen zijn gestructureerd en de relaties tussen tabellen regelen.</li>
 <li><a href="https://en.wikipedia.org/wiki/Data_lake">Data Lake</a> opslag wordt gebruikt voor grote verzamelingen gegevens in ruwe, ongestructureerde vorm. Data lakes worden vaak gebruikt met big data, waarbij alle data niet op één machine past en moet worden opgeslagen en verwerkt door een cluster van servers. <a href="https://en.wikipedia.org/wiki/Apache_Parquet">Parquet</a> is het gegevensformaat dat vaak wordt gebruikt in combinatie met big data.</li> 
 </ul>
 </dd>
@@ -152,7 +152,7 @@ Ga naar ['notebook.ipynb'](notebook.ipynb) om de code door te lezen.  Je kunt de
 
 > Als je niet weet hoe je code in een Jupyter Notebook moet uitvoeren, kijk dan eens naar [dit artikel](https://soshnikov.com/education/how-to-execute-notebooks-from-github/).
 
-## [Post-lecture quiz](https://red-water-0103e7a0f.azurestaticapps.net/quiz/1)
+## [Post-lecture quiz](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/1)
 
 ## Opdrachten
 

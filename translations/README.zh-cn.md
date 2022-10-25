@@ -15,7 +15,7 @@
 
 > **老师们**，我们提供了关于如何使用这个课程的 [一些建议](../for-teachers.md)。我们希望您能 [在我们的讨论区](https://github.com/microsoft/Data-Science-For-Beginners/discussions) 提出反馈意见！
 
-> **同学们**，如果你想自己学习这门课程，你可以在整个 repo 中自己完成练习，从课前测验开始，然后阅读讲座，完成其他活动。尝试通过理解课程内容来创建项目，而不是仅仅把答案代码抄下来；然而，在每个项目课程中，这些代码可以在里面的 /solutions 文件夹中找到。另一个方法是与朋友组成一个学习小组，一起学习内容。为了进一步的研究，我们推荐 [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-40229-cxa)。
+> **同学们**，如果你想自己学习这门课程，你可以在整个 repo 中自己完成练习，从课前测验开始，然后阅读讲座，完成其他活动。尝试通过理解课程内容来创建项目，而不是仅仅把答案代码抄下来；然而，在每个项目课程中，这些代码可以在里面的 /solutions 文件夹中找到。另一个方法是与朋友组成一个学习小组，一起学习内容。为了进一步的研究，我们推荐 [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-77958-bethanycheum)。
 
 [![Promo video](../ds-for-beginners.png)](https://youtu.be/8mzavjQSMM4 "Promo video")
 
@@ -42,7 +42,7 @@
 - 作业
 - 课后测验
 
-> **关于测验的提示**：所有的测验都包含在  [这个应用](https://red-water-0103e7a0f.azurestaticapps.net/) 中，共有 40 个测验，每个测验都有三个问题。课中将有它们的链接，但这个应用也可以在本地运行；按照 `quiz-app` 文件夹中的指引。它们正在被本地化。
+> **关于测验的提示**：所有的测验都包含在  [这个应用](https://purple-hill-04aebfb03.1.azurestaticapps.net/) 中，共有 40 个测验，每个测验都有三个问题。课中将有它们的链接，但这个应用也可以在本地运行；按照 `quiz-app` 文件夹中的指引。它们正在被本地化。
 
 ## 课程
 

@@ -6,7 +6,7 @@
 
 과거에 스프레드 시트를 통해 정보를 저장한 경험이 있을 것입니다. 이는 행(rows)과 열(columns)을 가지고 있으며, 행(rows)에는 정보(혹은 데이터)를 나타내고 열(columns)에는 해당 정보(또는 메타데이터)를 정의합니다. 관계형 데이터베이스는 테이블의 행과 열의 핵심 원리를 기반으로 구축되며 여러 테이블에 정보를 분산시킬 수 있습니다. 이를 통해 더 복잡한 데이터를 다룰 수 있을 뿐만 아니라 중복을 방지하고, 데이터 탐색 방식에서 유연성을 가질 수 있습니다. 관계형 데이터베이스의 개념을 좀 더 살펴보겠습니다.
 
-## [강의 전 퀴즈](https://red-water-0103e7a0f.azurestaticapps.net/quiz/8)
+## [강의 전 퀴즈](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/8)
 
 ## 모든 것의 시작 : 테이블(table)
 
@@ -166,15 +166,15 @@ WHERE rainfall.year = 2019
 
 ## 강의 후 퀴즈
 
-## [강의 후 퀴즈](https://red-water-0103e7a0f.azurestaticapps.net/quiz/9)
+## [강의 후 퀴즈](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/9)
 
 ## 리뷰 & 복습
 
-[Microsoft 학습](https://docs.microsoft.com/learn?WT.mc_id=academic-40229-cxa)에 SQL 및 관계형 데이터베이스 개념에 대한 학습을 계속할 수 있는 자료들이 있습니다.
+[Microsoft 학습](https://docs.microsoft.com/learn?WT.mc_id=academic-77958-bethanycheum)에 SQL 및 관계형 데이터베이스 개념에 대한 학습을 계속할 수 있는 자료들이 있습니다.
 
-- [관계형 데이터의 개념 설명](https://docs.microsoft.com//learn/modules/describe-concepts-of-relational-data?WT.mc_id=academic-40229-cxa)
-- [Transact-SQL로 시작하는 쿼리](https://docs.microsoft.com//learn/paths/get-started-querying-with-transact-sql?WT.mc_id=academic-40229-cxa) (Transact-SQL SQL의 버전이다.)
-- [Microsoft 학습의 SQL 콘텐츠](https://docs.microsoft.com/learn/browse/?products=azure-sql-database%2Csql-server&expanded=azure&WT.mc_id=academic-40229-cxa)
+- [관계형 데이터의 개념 설명](https://docs.microsoft.com//learn/modules/describe-concepts-of-relational-data?WT.mc_id=academic-77958-bethanycheum)
+- [Transact-SQL로 시작하는 쿼리](https://docs.microsoft.com//learn/paths/get-started-querying-with-transact-sql?WT.mc_id=academic-77958-bethanycheum) (Transact-SQL SQL의 버전이다.)
+- [Microsoft 학습의 SQL 콘텐츠](https://docs.microsoft.com/learn/browse/?products=azure-sql-database%2Csql-server&expanded=azure&WT.mc_id=academic-77958-bethanycheum)
 
 ## 과제
 

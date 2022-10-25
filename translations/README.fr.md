@@ -25,7 +25,7 @@ L'équipe Azure Cloud Advocates de Microsoft a le plaisir de vous offrir un curr
 
 > **Enseignants**, nous avons [inclus des suggestions](../for-teachers.md) concernant la manière dont vous pouvez utiliser ce curriculum. Nous aimerions beaucoup lire vos feedbacks [dans notre forum de discussion](https://github.com/microsoft/Data-Science-For-Beginners/discussions) !
 
-> **Etudiants**, pour suivre ce curriculum, la première chose à faire est de forker ce repository en entier, vous pourrez ensuite réaliser les exercices de votre côté, en commençant un quiz préalable, en lisant le contenu des cours, et en complétant le reste des activités. Essayez de créer les projets en intégrant bien les cours, plutôt qu'en copiant les solutions. Vous verrez que chaque cours orientée projet contient un dossier dossier /solutions dans lequel vous trouverez la solution des exercices. Vous pouvez aussi former un groupe d'apprentissage avec des amis et vous former ensemble. Pour poursuivre votre apprentissage, nous recommandons d'aller consulter [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-40229-cxa).
+> **Etudiants**, pour suivre ce curriculum, la première chose à faire est de forker ce repository en entier, vous pourrez ensuite réaliser les exercices de votre côté, en commençant un quiz préalable, en lisant le contenu des cours, et en complétant le reste des activités. Essayez de créer les projets en intégrant bien les cours, plutôt qu'en copiant les solutions. Vous verrez que chaque cours orientée projet contient un dossier dossier /solutions dans lequel vous trouverez la solution des exercices. Vous pouvez aussi former un groupe d'apprentissage avec des amis et vous former ensemble. Pour poursuivre votre apprentissage, nous recommandons d'aller consulter [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-77958-bethanycheum).
 
 <!--[![Promo video](../screenshot.png)]( "Promo video")
 
@@ -52,7 +52,7 @@ De plus, un quiz à faible enjeu à réaliser avant chaque cours permet de prép
 - Un exercice
 - Un quiz de fin
 
-> **Concernant les quiz** : Vous pourrez retrouver tous les quiz [dans cette application](https://red-water-0103e7a0f.azurestaticapps.net/). Il y a 40 quiz, avec trois questions chacun. Vous les retrouverez dans chaque cours correspondant, mais vous pouvez aussi utiliser l'application de quiz en local en suivant les instruction disponibles dans le dossier `quiz-app`. Les quiz sont en cours de localisation.
+> **Concernant les quiz** : Vous pourrez retrouver tous les quiz [dans cette application](https://purple-hill-04aebfb03.1.azurestaticapps.net/). Il y a 40 quiz, avec trois questions chacun. Vous les retrouverez dans chaque cours correspondant, mais vous pouvez aussi utiliser l'application de quiz en local en suivant les instruction disponibles dans le dossier `quiz-app`. Les quiz sont en cours de localisation.
 
 ## Cours
 

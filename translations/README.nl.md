@@ -19,7 +19,7 @@ Met groot genoegen bieden Azure Cloud Advocates bij Microsoft dit curriculum van
 **🙏 Speciale dank 🙏 gaat uit naar onze [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/) auteurs, proeflezers en "meedenkers",** notably Aaryan Arora, [Aditya Garg](https://github.com/AdityaGarg00), [Alondra Sanchez](https://www.linkedin.com/in/alondra-sanchez-molina/), [Ankita Singh](https://www.linkedin.com/in/ankitasingh007), [Anupam Mishra](https://www.linkedin.com/in/anupam--mishra/), [Arpita Das](https://www.linkedin.com/in/arpitadas01/), ChhailBihari Dubey, [Dibri Nsofor](https://www.linkedin.com/in/dibrinsofor), [Dishita Bhasin](https://www.linkedin.com/in/dishita-bhasin-7065281bb), [Majd Safi](https://www.linkedin.com/in/majd-s/), [Max Blum](https://www.linkedin.com/in/max-blum-6036a1186/), [Miguel Correa](https://www.linkedin.com/in/miguelmque/), [Mohamma Iftekher (Iftu) Ebne Jalal](https://twitter.com/iftu119), [Nawrin Tabassum](https://www.linkedin.com/in/nawrin-tabassum), [Raymond Wangsa Putra](https://www.linkedin.com/in/raymond-wp/), [Rohit Yadav](https://www.linkedin.com/in/rty2423), Samridhi Sharma, [Sanya Sinha](https://www.linkedin.com/mwlite/in/sanya-sinha-13aab1200),
 [Sheena Narula](https://www.linkedin.com/in/sheena-narua-n/), Tauqeer Ahmad, Yogendrasingh Pawar
 
-|![ Sketchnote door [(@sketchthedocs)](https://sketchthedocs.dev) ](./sketchnotes/00-Title.png)|
+|![ Sketchnote door [(@sketchthedocs)](https://sketchthedocs.dev) ](../sketchnotes/00-Title.png)|
 |:---:|
 | Data Science voor Beginners - _Sketchnote door [@nitya](https://twitter.com/nitya)_ |
 
@@ -28,7 +28,7 @@ Met groot genoegen bieden Azure Cloud Advocates bij Microsoft dit curriculum van
 
 > **Leerkrachten**: we hebben [suggesties bijgevoegd](for-teachers.md) over het gebruik van dit curriculum. We staan open voor uw feedback [in ons discussie forum](https://github.com/microsoft/Data-Science-For-Beginners/discussions)!
 
-> **Studenten, leerlingen**: "fork" om dit lesmateriaal te gebruiken de gehele folder, en werk op eigen kracht door de opdrachten. Start steeds met de quiz vooraf. Lees dan de lezing en volg de rest van de opdrachten. Probeer de projecten te voltooien zonder de oplossing een-op-een te kopiëren; maar weet dat de oplossing in de /solutions folder te vinden is. Overweeg een studie groep te vormen en samen door het lesmateriaal te gaan. Wil je nog meer leren? Ga dan naar [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-40229-cxa).
+> **Studenten, leerlingen**: "fork" om dit lesmateriaal te gebruiken de gehele folder, en werk op eigen kracht door de opdrachten. Start steeds met de quiz vooraf. Lees dan de lezing en volg de rest van de opdrachten. Probeer de projecten te voltooien zonder de oplossing een-op-een te kopiëren; maar weet dat de oplossing in de /solutions folder te vinden is. Overweeg een studie groep te vormen en samen door het lesmateriaal te gaan. Wil je nog meer leren? Ga dan naar [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-77958-bethanycheum).
 
 ## Het team achter Data Science voor Beginners
 
@@ -60,7 +60,7 @@ Bovendien zet een laagdrempelige quiz voor een les de intentie van de student om
 - Quiz na de les
 
 
-> **Een opmerking over de quizzen**: Alle quizzen zijn opgenomen [in deze app](https://red-water-0103e7a0f.azurestaticapps.net/), voor in totaal 40 quizzen van elk drie vragen. Ze zijn gekoppeld vanuit de lessen, maar de quiz-app kan lokaal worden uitgevoerd; volg de instructies in de `quiz-app` map. Ze worden stilaan gelokaliseerd.
+> **Een opmerking over de quizzen**: Alle quizzen zijn opgenomen [in deze app](https://purple-hill-04aebfb03.1.azurestaticapps.net/), voor in totaal 40 quizzen van elk drie vragen. Ze zijn gekoppeld vanuit de lessen, maar de quiz-app kan lokaal worden uitgevoerd; volg de instructies in de `quiz-app` map. Ze worden stilaan gelokaliseerd.
 
 ## Lessen
 

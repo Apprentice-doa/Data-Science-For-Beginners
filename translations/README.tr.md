@@ -26,7 +26,7 @@ Aaryan Arora, [Aditya Garg](https://github.com/AdityaGarg00), [Alondra Sanchez](
 
 > **Öğretmenler**: bu ders programını nasıl kullanacağınızla alakalı bazı [öneriler](../for-teachers.md) ekledik. [Tartışma forumlarımıza](https://github.com/microsoft/Data-Science-For-Beginners/discussions) bırakacağınız geribildirimlerinizi görmeyi çok isteriz!
 
-> **Öğrenciler**: bu ders programını kendi başınıza kullanabilmek için tüm repoyu fork edin ve kendi başınıza ders öncesi kısa sınavlarından başlayarak alıştırmaları tamamlamaya çalışın. Sonra dersi okuyun ve geri kalan etkinlikleri tamamlayın. Çözüm kodunu kopyalamaktansa derslerde öğrendiklerinizi kullanarak projeler yaratmaya çalışın. Çözüm kodları her projeye dayalı dersin /solution klasöründe bulunmaktadır. Başka bir fikir de arkadaşlarınızla bir çalışma grubu kurup içeriği birlikte takip etmeniz olabilir. Daha ileri öğrenim için [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-40229-cxa)'ü tavsiye ediyoruz.
+> **Öğrenciler**: bu ders programını kendi başınıza kullanabilmek için tüm repoyu fork edin ve kendi başınıza ders öncesi kısa sınavlarından başlayarak alıştırmaları tamamlamaya çalışın. Sonra dersi okuyun ve geri kalan etkinlikleri tamamlayın. Çözüm kodunu kopyalamaktansa derslerde öğrendiklerinizi kullanarak projeler yaratmaya çalışın. Çözüm kodları her projeye dayalı dersin /solution klasöründe bulunmaktadır. Başka bir fikir de arkadaşlarınızla bir çalışma grubu kurup içeriği birlikte takip etmeniz olabilir. Daha ileri öğrenim için [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-77958-bethanycheum)'ü tavsiye ediyoruz.
 
 ## Ekiple Tanışın
 
@@ -57,7 +57,7 @@ Bunlara ek olarak ders öncesi yüzeysel bir kısa sınav ile öğrencinin bir k
 - Ödev
 - Ve ders sonrası kısa sınavı içerir
 
-> **Kısa sınavlar hakkında bir not**: Her biri üçer soruluk toplamda 40 kısa sınav [bu uygulamada](https://red-water-0103e7a0f.azurestaticapps.net/) bulunmaktadır. Kısa sınavlara ders içerisinde bir bağlantıyla yer verilmiştir ancak kısa sınav uygulaması yerel olarak da çalıştırılabilir. `quiz-app` dosyasındaki talimatları takip edebilirsiniz. Kısa sınavlar yavaş yavaş çevrilmektedir.
+> **Kısa sınavlar hakkında bir not**: Her biri üçer soruluk toplamda 40 kısa sınav [bu uygulamada](https://purple-hill-04aebfb03.1.azurestaticapps.net/) bulunmaktadır. Kısa sınavlara ders içerisinde bir bağlantıyla yer verilmiştir ancak kısa sınav uygulaması yerel olarak da çalıştırılabilir. `quiz-app` dosyasındaki talimatları takip edebilirsiniz. Kısa sınavlar yavaş yavaş çevrilmektedir.
 
 ## Dersler
 

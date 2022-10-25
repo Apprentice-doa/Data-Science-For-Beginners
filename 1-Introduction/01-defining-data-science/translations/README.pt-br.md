@@ -8,7 +8,7 @@
 
 [![Definindo Ciências de Dados](../images/video-def-ds.png)](https://youtu.be/pqqsm5reGvs)
 
-## [Quiz pré-aula](https://red-water-0103e7a0f.azurestaticapps.net/quiz/0)
+## [Quiz pré-aula](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/0)
 
 ## O que são Dados?
 Na nossa vida cotidiana, nós estamos constantemente cercados por dados. O texto que você está lendo agora é um dado, a lista de telefones dos seus amigos no seu celular é um dado, assim como o horário atual mostrado no seu relógio. Como seres humanos, nós operamos naturalmente com dados. contando o dinheiro que temos ou escrevendo cartas para os nossos amigos.
@@ -107,7 +107,7 @@ Primeiro passo é coletar os dados. Enquanto em muitos casos isso pode ser um pr
 Armazenar os dados pode ser desafiador, especialmente se estamos falando de big data. Enquanto decide como armazenar os dados, faz sentido antecipar a forma como você gostaria de consultá-los mais tarde. Existem diversas formas de como os dados podem ser armazenados:
 <ul>
 <li> Bancos de dados relacionais armazenam uma coleção de tabelas, e utilizam uma linguagem especial chamada SQL para consultá-los. Tipicamente, tabelas seriam conectadas umas às outras usando algum schema. Em vários casas nós precisamos converter os dados da forma original para ajustar al schema.</li>
-<li>Bancos de dados <a href="https://en.wikipedia.org/wiki/NoSQL">NoSQL</a>, como <a href="https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=acad-31812-dmitryso">CosmosDB</a>, não impõe schema nos dados, e permite o armazenamento de dados mais complexos, como por exemplo, documentos hierárquicos JSON ou grafos. No entanto, bancos de dados NoSQL não possuem a capacidade rica de consulta do SQL, e não podem impor integridade referencial entre os dados.</li>
+<li>Bancos de dados <a href="https://en.wikipedia.org/wiki/NoSQL">NoSQL</a>, como <a href="https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=academic-77958-bethanycheum">CosmosDB</a>, não impõe schema nos dados, e permite o armazenamento de dados mais complexos, como por exemplo, documentos hierárquicos JSON ou grafos. No entanto, bancos de dados NoSQL não possuem a capacidade rica de consulta do SQL, e não podem impor integridade referencial entre os dados.</li>
 <li>Armazenamento em <a href="https://en.wikipedia.org/wiki/Data_lake">Data Lake</a> é usado para grandes coleções de dados na forma bruta. Data lakes são frequentemente usados para big data, onde todos não podem se encaixar em uma máquina, e precisam ser armazenados e processados por um cluster. <a href="https://en.wikipedia.org/wiki/Apache_Parquet">Parquet</a> é o formato de dado que é frequentemente usado em conjunção com big data.</li> 
 </ul>
 </dd>
@@ -153,7 +153,7 @@ Visite [`notebook.ipynb`](../notebook.ipynb) para ler o código. Você também p
 
 
 
-## [Quiz pós-aula](https://red-water-0103e7a0f.azurestaticapps.net/quiz/1)
+## [Quiz pós-aula](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/1)
 
 ## Tarefas
 

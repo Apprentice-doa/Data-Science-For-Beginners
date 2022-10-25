@@ -8,7 +8,7 @@
 
 [![데이터 과학(Data Science) 정의 영상](../images/video-def-ds.png)](https://youtu.be/pqqsm5reGvs)
 
-## [Pre-lecture quiz](https://red-water-0103e7a0f.azurestaticapps.net/quiz/0)
+## [Pre-lecture quiz](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/0)
 
 ## 데이터란 무엇인가?
 일상 생활에서 우리는 항상 데이터에 둘러싸여 있습니다. 지금 당신이 읽고 있는 이 글, 당신의 스마트폰 안에 있는 친구들의 전화번호 목록도 데이터이며, 시계에 표시되는 현재 시간 역시 마찬가지입니다. 인간으로서 우리는 가지고 있는 돈을 세거나 친구들에게 편지를 쓰면서 자연스럽게 데이터를 조작합니다.
@@ -107,7 +107,7 @@
 특히 빅 데이터의 경우에, 데이터를 저장하는 것은 어려울 수 있습니다. 데이터를 저장하는 방법을 결정할 때는 나중에 데이터를 쿼리할 방법을 예상하는 것이 좋습니다. 데이터를 저장할 수 있는 방법에는 여러 가지가 있습니다.
 <ul>
 <li>관계형 데이터베이스는 테이블 모음을 저장하고 SQL이라는 특수 언어를 사용하여 쿼리합니다. 일반적으로 테이블은 어떤 스키마를 사용하여 서로 연결됩니다. 많은 경우 스키마에 맞게 원래 형식의 데이터를 변환해야 합니다.</li>
-<li><a href="https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=acad-31812-dmitryso">CosmosDB</a>와 같은 <a href="https://en.wikipedia.org/wiki/NoSQL">NoSQL</a> 데이터베이스는 데이터에 스키마를 적용하지 않으며, 계층적 JSON 문서 또는 그래프와 같은 더 복잡한 데이터를 저장할 수 있습니다. 그러나 NoSQL 데이터베이스는 SQL의 풍부한 쿼리 기능이 없으며 데이터 간의 참조 무결성을 강제할 수 없습니다.</li>
+<li><a href="https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=academic-77958-bethanycheum">CosmosDB</a>와 같은 <a href="https://en.wikipedia.org/wiki/NoSQL">NoSQL</a> 데이터베이스는 데이터에 스키마를 적용하지 않으며, 계층적 JSON 문서 또는 그래프와 같은 더 복잡한 데이터를 저장할 수 있습니다. 그러나 NoSQL 데이터베이스는 SQL의 풍부한 쿼리 기능이 없으며 데이터 간의 참조 무결성을 강제할 수 없습니다.</li>
 <li><a href="https://en.wikipedia.org/wiki/Data_lake">Data Lake</a> 저장소는 원시 형식(raw form)의 대규모 데이터 저장소로 사용됩니다. 데이터 레이크는 모든 데이터가 하나의 시스템에 들어갈 수 없고 클러스터에서 저장 및 처리를 해야하는 빅 데이터와 함께 사용하는 경우가 많습니다. <a href="https://en.wikipedia.org/wiki/Apache_Parquet">Parquet</a>은 빅 데이터와 함께 자주 사용되는 데이터 형식입니다.</li> 
 </ul>
 </dd>
@@ -153,7 +153,7 @@
 
 
 
-## [강의 후 퀴즈](https://red-water-0103e7a0f.azurestaticapps.net/quiz/1)
+## [강의 후 퀴즈](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/1)
 
 ## 과제
 
